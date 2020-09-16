@@ -1,12 +1,29 @@
-.container {
+.jumbotron {
 
     background:blue;
     height:250px;
         
     
     } 
+.jumbotron2 {
+
+        background: lightgrey;
+        height:250px;
+            
+        
+        } 
+
+.badge{
+ float: right;
+}
+
+.card{
+
+
+width:6rem;
+}
 /*.othercontainer{
 
     background: rgb(74, 138, 74);
     height: 100px;
-} *\
+} *
